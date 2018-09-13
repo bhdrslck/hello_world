@@ -1,5 +1,5 @@
 rs232 program
-satýr 1
 satýr 2
 satýr 3
+satýr 4
 rs232 program sonu
