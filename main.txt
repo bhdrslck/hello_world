@@ -1,0 +1,6 @@
+
+main program
+satýr 1
+satýr 2
+satýr 3
+program sonu
